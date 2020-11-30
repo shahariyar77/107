@@ -1,0 +1,87 @@
+
+body{
+    padding: 0;
+    margin: 0;
+    font-family: Montserrat,Philosopher,Roboto;
+    
+}
+.pricing-tittle-wrap{
+    background-image: url(img/Digital%20Painting%20Inspiration%20Vol_%2030.jpg);
+}
+
+.section-padding {
+  padding: 80px 0;
+}
+.pricing-tittle-wrap {
+  background-size: cover;
+  background-position: center;
+  background-color: #ddd;
+  text-align: center;
+  color: #fff;
+  padding-bottom: 200px;
+  padding-top: 40px;
+}
+.pricing-tittle-wrap h2 {
+  font-size: 50px;
+  font-weight: 400;
+}
+.pricing-header {
+  background: #2b303b;
+  height: 250px;
+  display: table;
+  width: 100%;
+  text-align: center;
+  position: relative;
+}
+.pricing-header-inner h2 {
+  font-size: 50px;
+  color: #fff;
+}
+.pricing-header-inner {
+  display: table-cell;
+  vertical-align: middle;
+  width: 100%;
+  padding: 30px;
+}
+.special-pricing {
+  position: absolute;
+  left: 0;
+  background: #21252d;
+  color: #fff;
+  text-transform: uppercase;
+  width: 100%;
+  padding: 10px;
+  line-height: 20px;
+  top: -40px;
+}
+.pricing-content {
+  font-size: 110%;
+  padding: 30px;
+}
+.pricing-subtittle {
+  background: #f0f0f0;
+  text-transform: uppercase;
+  margin: 0;
+  padding: 15px;
+  font-weight: 600;
+  text-align: center;
+}
+.pricing-not {
+  font-size: 70%;
+  opacity: .6;
+  margin-left: -10px;
+  margin-top: 20px;
+}
+.pricing-list-warp {
+  margin-top: -110px;
+}
+.pricing-list-warp .row {
+	margin-left: -5px;
+	margin-right: -5px;
+}
+.pricing-list-warp .col-lg-4 {
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+
